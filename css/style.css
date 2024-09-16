@@ -36,6 +36,28 @@ header{
     margin-left: 0px;
 }
 
+.marker-text{
+    background-color: yellow;
+}
+
 .list{
     padding-left: 20px;
+}
+
+.table-head{
+    background-color: rgb(56, 118, 212);
+    color: white;
+    font-weight: bold;
+}
+
+.table-colored-row{
+    background-color: rgba(46, 132, 189, 0.527);
+}
+.table-smaller-cell{
+    width: 20%;
+}
+
+.title_smaller{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.514);
 }
