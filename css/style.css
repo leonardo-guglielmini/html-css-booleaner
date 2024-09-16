@@ -2,12 +2,40 @@ header{
     background-color: rgb(61, 144, 221); 
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
-    height: 180px;
+    height: 150px;
     background-position-x: 150px;
+    background-position-y: -20px;
 }
 
 #front{
     width: 300px;
-    margin-top: 90px;
+    margin-top: 70px;
 }
 
+#title{
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+#author{
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.555);
+    margin-top: 0px;
+}
+#author-name{
+    color: rgb(0, 132, 255);
+    font-weight: bold;
+}
+
+.images{
+    margin-left: 0px;
+}
+
+.article{
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+.list{
+    padding-left: 20px;
+}
