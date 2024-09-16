@@ -60,4 +60,34 @@ header{
 .title_smaller{
     font-size: 20px;
     color: rgba(0, 0, 0, 0.514);
+    margin-bottom: 10px;
 }
+
+#image-with-text-monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    position:relative;
+    margin-bottom: 10px;
+}
+
+#image-with-text-graph{
+    text-align: left;
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+}
+
+.text{
+    text-align: left;
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+
